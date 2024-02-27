@@ -10,3 +10,5 @@ redos - https://docs.google.com/document/d/1MiXm6m67zVWCpz0uoYNBxpS9OHtFwS1ULku5
 Практика - https://drive.google.com/drive/folders/1cSsYP_Hp3WO7grFxjQK19_3j7pdsuT9N?usp=drive_link
 
 База данных 12.01.2024 - https://docs.google.com/document/d/14BtbYEAkrJzHljy14ipuoCtCbRnzNMOaGo73XEWFhEw/edit?usp=drivesdk
+
+Лабораторная работа - https://drive.google.com/drive/folders/1vuqk2WLWKQzV5RUQy_jV2YMr-7_SQst4?usp=sharing
